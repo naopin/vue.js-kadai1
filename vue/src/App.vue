@@ -1,11 +1,3 @@
 <template>
-   <HelloWord></HelloWord>
+  <HelloWorld></HelloWorld>
 </template>
-
-<script>
-
-</script>
-
-<style>
-
-</style>
